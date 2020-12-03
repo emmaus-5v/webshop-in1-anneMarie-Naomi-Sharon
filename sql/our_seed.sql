@@ -21,14 +21,8 @@ insert into products (name, description, code, price, category_japans_ID, catego
 insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
 ('Gadogado', 'Een Indonesisch groentegerecht waarbij groentes worden geserveerd met gebakken ei, een schep pindasaus en verkruimelde kroepoek.', 111118, 8.5, 0,1,0,0);
 insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
-('Spekkoek', 'Een Indonesische cake of lekkernij waarbij gebruik wordt gemaakt van pandan.', 111114, 7.0, 4,0,0,0);
+('Spekkoek', 'Een Indonesische cake of lekkernij waarbij gebruik wordt gemaakt van pandan.', 111119, 2.5, 0,2,0,0);
 insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
-('Sambal goreng telor', 'Een Ind', 111114, 7.0, 4,0,0,0);
-insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
-('Yakitori', 'Een japanse versie van kip op een spies dat wordt gekruid met zout of taresaus.', 111114, 7.0, 4,0,0,0);
-insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
-('Yakitori', 'Een japanse versie van kip op een spies dat wordt gekruid met zout of taresaus.', 111114, 7.0, 4,0,0,0);
-insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
-('Yakitori', 'Een japanse versie van kip op een spies dat wordt gekruid met zout of taresaus.', 111114, 7.0, 4,0,0,0);
+('Sambal goreng telor', 'Een Indisch gereht dat geen gerbuk maakt van vlees, dus vegetrarisch!. Het zijn eieren in een indische saus.', 111120, 12.0, 0,3,0,0);
 
-
+/* Duitsland, Anne-Marie*/

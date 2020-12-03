@@ -2,11 +2,7 @@
 -- curl "https://api.mockaroo.com/api/910b6c20?count=100&key=90eac760" > seed.sql
 --
 -- want different data? check: https://www.mockaroo.com/910b6c20
-<<<<<<< HEAD
 --
-=======
--- test change
->>>>>>> 89fde7882193fc504847438978a8532721f86bdf
 
 
 insert into products (name, description, code, price) values ('French Film', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
