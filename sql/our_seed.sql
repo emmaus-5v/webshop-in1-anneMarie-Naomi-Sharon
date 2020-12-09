@@ -26,3 +26,7 @@ insert into products (name, description, code, price, category_japans_ID, catego
 ('Sambal goreng telor', 'Een Indisch gereht dat geen gerbuk maakt van vlees, dus vegetrarisch!. Het zijn eieren in een indische saus.', 111120, 12.0, 0,3,0,0);
 
 /* Duitsland, Anne-Marie*/
+insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
+('Apfelstrudel', 'Een Duits gerecht dat bestaat uit stukjes appel en rozijnen gewikkeld in filodeeg.', 111120, 12.0, 0,0,0,1);
+insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
+('Reibekuchen', 'Een Duits aardappel gerecht waar ook uien in zitten dat er uitziet als een koekje.', 111120, 12.0, 0,0,0,2);
