@@ -11,3 +11,23 @@ CREATE TABLE products (
   Category_duits_ID NUMERIC
 
 );
+
+CREATE TABLE japan (
+  ID SERIAL PRIMARY KEY,
+  description TEXT
+);
+
+CREATE TABLE india (
+  ID SERIAL PRIMARY KEY,
+  description TEXT
+);
+
+CREATE TABLE nederland (
+  ID SERIAL PRIMARY KEY,
+  description TEXT
+);
+
+CREATE TABLE duitsland (
+  ID SERIAL PRIMARY KEY,
+  description TEXT
+);
