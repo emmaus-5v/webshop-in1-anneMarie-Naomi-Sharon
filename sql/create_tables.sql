@@ -1,4 +1,4 @@
-
+DROP TABLE IF EXISTS products;
 CREATE TABLE products (
   ID SERIAL PRIMARY KEY,
   code VARCHAR(15),
