@@ -53,7 +53,7 @@ insert into products (name, description, code, price, category_japans_ID, catego
 insert into products (name, description, code, price, category_japans_ID, category_indisch_ID, category_nederlands_ID, Category_duits_ID) values 
 ('Ham-kaasstrudel', 'Dit is hetzelfde als de apfelstrudel, maar met ham en kaas als vulling in plaats van de appel en rozijnen.', 111128, 3.0, 0,0,0,1);
 
-/* japan en india, sharon*/
+/* japan en india, sharon
 
 insert into japan (description) values ('Japan is een land in Azië met een erg gevarieerde keuken, in veel van hun gerechten wordt rauwe vis gebrukt. 
 Kijk dan dus ook niet raar op als er rauwe vis wordt geserveerd. De gerechten zijn allemaal erg lekker en zeker het proberen waard!');
@@ -61,8 +61,10 @@ Kijk dan dus ook niet raar op als er rauwe vis wordt geserveerd. De gerechten zi
 insert into india (description) values ('India is een erg mooi land in Azië met veel heerlijke gerechten. 
 Kijk wel uit als u niet tegen pittig kan, in deze gerechten worden vaak pepers gebruikt. Al houdt u wel van iets pittigs, zijn deze gerechten zeker wat voor u!');
 
-/* nederland en duitsland, anne-marie*/
+/* nederland en duitsland, anne-marie
 
-insert into nederland (description) values ();
+insert into nederland (description) values ('De Nederlandse keuken is met name geïnspireerd door het landbouwverleden van Nederland. 
+Nederlandse gerechten zijn vaak relatief eenvoudig en voedzaam.');
 
-Insert into duitsland (description) values ();
+Insert into duitsland (description) values ('De nationale keuken van Duitsland heet zich ontwikkeld gedurende eeuwen van sociale en politieke verandering, waarbij regionale verschillen voortbestaan.
+Sommige streken kennen gerechten die tevens voorkomen in de Oosentijkse en Zwitserse keuken.'); */
