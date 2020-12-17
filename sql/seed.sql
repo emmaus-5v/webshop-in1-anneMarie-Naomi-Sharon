@@ -63,6 +63,8 @@ Kijk wel uit als u niet tegen pittig kan, in deze gerechten worden vaak pepers g
 
 /* nederland en duitsland, anne-marie*/
 
-insert into nederland (description) values ();
+insert into nederland (description) values ('De Nederlandse keuken is met name geïnspireerd door het landbouwverleden van Nederland. 
+Nederlandse gerechten zijn vaak relatief eenvoudig en voedzaam.');
 
-Insert into duitsland (description) values ();
+Insert into duitsland (description) values ('De nationale keuken van Duitsland heet zich ontwikkeld gedurende eeuwen van sociale en politieke verandering, waarbij regionale verschillen voortbestaan.
+Sommige streken kennen gerechten die tevens voorkomen in de Oosentijkse en Zwitserse keuken.');
